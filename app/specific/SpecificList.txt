@@ -31,3 +31,4 @@ samsung:r0q
 samsung:dm3
 samsung:dm3q
 tecno:tecno-ci8n
+nothing phone:pong
