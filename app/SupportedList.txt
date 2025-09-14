@@ -47,3 +47,4 @@ motorola:sofiar
 lge:flashlm
 lge:flashlmdd
 huawei:hweml
+nothingphone:pong
